@@ -108,7 +108,7 @@ revelar.reveal('.efeito-sobre',
                 {
                     duration: 500,
                     distance: '90px',
-                    delay: 500,
+                    delay: 200,
                     once: true,
                     reset: false
                 })
