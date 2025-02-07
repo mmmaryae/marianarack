@@ -55,7 +55,7 @@ revelar.reveal('.boasvindas',
     {
         duration: 500,
         distance: '90px',
-        delay: 200,
+        delay: 100,
         once: true,
         reset: false
     })
