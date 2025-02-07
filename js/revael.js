@@ -53,9 +53,9 @@ revelar.reveal('.efeito-txt-topo5',
     
 revelar.reveal('.boasvindas',
     {
-        duration: 2000,
+        duration: 500,
         distance: '90px',
-        delay: 800,
+        delay: 200,
         once: true,
         reset: false
     })
@@ -108,7 +108,7 @@ revelar.reveal('.efeito-sobre',
                 {
                     duration: 500,
                     distance: '90px',
-                    delay: 200,
+                    delay: 600,
                     once: true,
                     reset: false
                 })
