@@ -106,7 +106,7 @@ revelar.reveal('.efeito-sobre',
             
                   revelar.reveal('#efeito-sobe2',
                 {
-                    duration: 1000,
+                    duration: 500,
                     distance: '90px',
                     delay: 500,
                     once: true,
